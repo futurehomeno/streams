@@ -5,7 +5,7 @@ import (
 	"database/sql"
 	"errors"
 
-	"github.com/futurehomeno/streams/v6"
+	"github.com/futurehomeno/streams"
 )
 
 // Transaction represents a SQL transaction handler.

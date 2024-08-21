@@ -10,8 +10,8 @@ import (
 	"syscall"
 
 	"github.com/IBM/sarama"
-	"github.com/futurehomeno/streams/v6"
-	"github.com/futurehomeno/streams/v6/kafka"
+	"github.com/futurehomeno/streams"
+	"github.com/futurehomeno/streams/kafka"
 )
 
 // BatchSize is the size of commit batches.

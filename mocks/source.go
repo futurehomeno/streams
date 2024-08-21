@@ -3,7 +3,7 @@ package mocks
 import (
 	"time"
 
-	"github.com/futurehomeno/streams/v6"
+	"github.com/futurehomeno/streams"
 )
 
 var _ streams.Source = (*Source)(nil)

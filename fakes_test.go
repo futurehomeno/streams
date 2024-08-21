@@ -5,7 +5,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/futurehomeno/streams/v6"
+	"github.com/futurehomeno/streams"
 )
 
 type fakeSource struct {

@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/futurehomeno/streams/v6"
+	"github.com/futurehomeno/streams"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/mock"
 )

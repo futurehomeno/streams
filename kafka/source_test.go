@@ -1,12 +1,12 @@
 package kafka_test
 
 import (
-	"github.com/futurehomeno/streams/v6"
+	"github.com/futurehomeno/streams"
 	"testing"
 	"time"
 
 	"github.com/IBM/sarama"
-	"github.com/futurehomeno/streams/v6/kafka"
+	"github.com/futurehomeno/streams/kafka"
 	"github.com/stretchr/testify/assert"
 )
 

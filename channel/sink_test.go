@@ -3,9 +3,9 @@ package channel_test
 import (
 	"testing"
 
-	"github.com/futurehomeno/streams/v6"
-	"github.com/futurehomeno/streams/v6/channel"
-	"github.com/futurehomeno/streams/v6/mocks"
+	"github.com/futurehomeno/streams"
+	"github.com/futurehomeno/streams/channel"
+	"github.com/futurehomeno/streams/mocks"
 	"github.com/stretchr/testify/assert"
 )
 

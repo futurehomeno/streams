@@ -1,6 +1,6 @@
 package channel
 
-import "github.com/futurehomeno/streams/v6"
+import "github.com/futurehomeno/streams"
 
 // Sink represents a channel sink.
 type Sink struct {

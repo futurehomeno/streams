@@ -5,7 +5,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/futurehomeno/streams/v6"
+	"github.com/futurehomeno/streams"
 )
 
 type record struct {

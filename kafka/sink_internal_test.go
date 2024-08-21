@@ -5,7 +5,7 @@ import (
 	"testing"
 
 	"github.com/IBM/sarama"
-	"github.com/futurehomeno/streams/v6"
+	"github.com/futurehomeno/streams"
 	"github.com/stretchr/testify/assert"
 )
 

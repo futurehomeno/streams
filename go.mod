@@ -1,4 +1,4 @@
-module github.com/futurehomeno/streams/v6
+module github.com/futurehomeno/streams
 
 go 1.14
 

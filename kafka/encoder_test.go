@@ -4,7 +4,7 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/futurehomeno/streams/v6/kafka"
+	"github.com/futurehomeno/streams/kafka"
 	"github.com/stretchr/testify/assert"
 )
 
